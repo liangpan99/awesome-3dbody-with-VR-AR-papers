@@ -1,7 +1,7 @@
 # Awesome 3D Body with VR/AR Papers
 
 ## Papers
-[Dynamics-Regulated Kinematic Policy for Egocentric Pose Estimation](https://arxiv.org/pdf/2112.07642.pdf). NIPS, 2021. [[Page]](https://zhengyiluo.github.io/projects/kin_poly/) [[Code]](https://github.com/KlabCMU/kin-poly)
+[Dynamics-Regulated Kinematic Policy for Egocentric Pose Estimation](https://arxiv.org/pdf/2112.07642.pdf). NeurIPS, 2021. [[Page]](https://zhengyiluo.github.io/projects/kin_poly/) [[Code]](https://github.com/KlabCMU/kin-poly)
 
 [FLAG: Flow-based 3D Avatar Generation
 from Sparse Observations](https://openaccess.thecvf.com/content/CVPR2022/papers/Aliakbarian_FLAG_Flow-Based_3D_Avatar_Generation_From_Sparse_Observations_CVPR_2022_paper.pdf). CVPR, 2022. [[Page]](https://microsoft.github.io/flag/) [Code]
